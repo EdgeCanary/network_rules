@@ -1,0 +1,44 @@
+# Discovery+ 菲律賓
+HOST-SUFFIX,mobile-collector.newrelic.com,Philippines
+HOST-SUFFIX,api.getblueshift.com,Philippines
+HOST-SUFFIX,ap2-prod.disco-api.com,Philippines
+HOST-SUFFIX,int.vaicore.site,Philippines
+HOST-SUFFIX,dplus-ph-prod-vod.akamaized.net,Philippines
+
+# Globe
+HOST-SUFFIX,checkoutshopper-live.adyen.com,Philippines
+HOST-SUFFIX,gcash.com,Philippines
+HOST-SUFFIX,.gcash.com,Philippines
+HOST-SUFFIX,www.gcash.com,Philippines
+HOST-SUFFIX,.globe.com.ph,Philippines
+HOST-SUFFIX,globe.com.ph,Philippines
+HOST-SUFFIX,www.globe.com.ph,Philippines
+HOST-SUFFIX,live-cortex-gw.al.ep.cloudops.globe.com.ph,Philippines
+HOST-SUFFIX,.smart.com.ph,Philippines
+HOST-SUFFIX,*.smart.com.ph,Philippines
+HOST-SUFFIX,smart.com.ph,Philippines
+HOST-SUFFIX,app1.smart.com.ph,Philippines
+
+# Lazada
+HOST-SUFFIX,lazada.com.ph,Philippines
+HOST-SUFFIX,.lazada.com.ph,Philippines
+HOST-SUFFIX,.slatic.net,Philippines
+HOST-SUFFIX,slatic.net,Philippines
+HOST-SUFFIX,pages.lazada.com.ph,Philippines
+HOST-SUFFIX,ph-test-11.slatic.net,Philippines
+HOST-SUFFIX,ph-live-01.slatic.net,Philippines
+HOST-SUFFIX,lazada.arms.aliyuncs.com,Philippines
+HOST-SUFFIX,retcode-sg-lazada.arms.aliyuncs.com,Philippines
+
+# Shopee
+HOST-SUFFIX,shopee.co.id,Philippines
+HOST-SUFFIX,shopee.co.th,Philippines
+HOST-SUFFIX,shopee.com,Philippines
+HOST-SUFFIX,shopee.com.br,Philippines
+HOST-SUFFIX,shopee.com.my,Philippines
+HOST-SUFFIX,shopee.ph,Philippines
+HOST-SUFFIX,shopee.sg,Philippines
+HOST-SUFFIX,shopee.tw,Philippines
+HOST-SUFFIX,shopee.vn,Philippines
+HOST-SUFFIX,shopeemobile.com,Philippines
+HOST-SUFFIX,shp.ee,Philippines
