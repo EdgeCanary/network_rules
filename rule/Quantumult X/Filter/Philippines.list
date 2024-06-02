@@ -1,4 +1,4 @@
-# Discovery+ 菲律賓
+# Discovery+
 HOST-SUFFIX,mobile-collector.newrelic.com,Philippines
 HOST-SUFFIX,api.getblueshift.com,Philippines
 HOST-SUFFIX,ap2-prod.disco-api.com,Philippines
@@ -8,21 +8,15 @@ HOST-SUFFIX,dplus-ph-prod-vod.akamaized.net,Philippines
 # Globe
 HOST-SUFFIX,checkoutshopper-live.adyen.com,Philippines
 HOST-SUFFIX,gcash.com,Philippines
-HOST-SUFFIX,.gcash.com,Philippines
 HOST-SUFFIX,www.gcash.com,Philippines
-HOST-SUFFIX,.globe.com.ph,Philippines
 HOST-SUFFIX,globe.com.ph,Philippines
 HOST-SUFFIX,www.globe.com.ph,Philippines
 HOST-SUFFIX,live-cortex-gw.al.ep.cloudops.globe.com.ph,Philippines
-HOST-SUFFIX,.smart.com.ph,Philippines
-HOST-SUFFIX,*.smart.com.ph,Philippines
 HOST-SUFFIX,smart.com.ph,Philippines
 HOST-SUFFIX,app1.smart.com.ph,Philippines
 
 # Lazada
 HOST-SUFFIX,lazada.com.ph,Philippines
-HOST-SUFFIX,.lazada.com.ph,Philippines
-HOST-SUFFIX,.slatic.net,Philippines
 HOST-SUFFIX,slatic.net,Philippines
 HOST-SUFFIX,pages.lazada.com.ph,Philippines
 HOST-SUFFIX,ph-test-11.slatic.net,Philippines
